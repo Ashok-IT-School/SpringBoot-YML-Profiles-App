@@ -1,0 +1,9 @@
+app:
+  properties:
+    message: Welcome To Ashok IT School From PROD
+    db-uname: iesapp-prod
+    db-pwd: ies@123
+    db-driver-class: oracle.jdbc.driver.OracleDriver
+    db-url: jdbc:oracle:thin:@localhost:1522/XE
+server:
+  port: 9090
